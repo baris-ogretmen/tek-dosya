@@ -1,0 +1,2 @@
+# tek-dosya
+eğitim oyunu
